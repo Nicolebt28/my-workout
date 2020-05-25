@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.workout-name {
+  margin: 4px;
+  padding: 4px;  
+  width: 235px;
+  font-family: 'Crete Round', serif;
+  font-size: 16px;
+  color: #fff;
+  background: linear-gradient(#e66465, #9198e5);
+  box-sizing: border-box;
+  border-radius: 4px;
+  position: relative;
+  outline: none;
+  border: 0px;
+}
